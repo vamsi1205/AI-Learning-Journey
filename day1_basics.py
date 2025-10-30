@@ -19,7 +19,7 @@ b = 3
 print("\nAddition:", a + b)
 print("Division:", a / b)
 print("Floor Division:", a // b)
-print("Exponent:", a ** b)
+print("Exponent:", a**b)
 
 # Strings
 city = "Hyderabad"
